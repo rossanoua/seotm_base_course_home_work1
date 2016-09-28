@@ -1,0 +1,26 @@
+
+table, th, td {
+    border: 1px solid black;
+}
+
+.first_table{
+    margin: 10px;
+    border-spacing:0;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+.second_table{
+    width: 300px;
+    margin: 10px;
+}
+
+.third_table{
+    text-align: center;
+    font-weight: bold;
+    width: 250px;
+    margin: 10px;
+    border-spacing:0;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
